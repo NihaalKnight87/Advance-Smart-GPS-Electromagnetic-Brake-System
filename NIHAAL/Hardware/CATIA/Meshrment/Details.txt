@@ -1,0 +1,9 @@
+Wheel : (Dia - 25cm, Width - 1cm) Wheel Attachment attatched to wheel (x1) 
+	x1 - Smaller for Grear (o1), longer for Magnetic Brakes (o2).
+		o1 - (Dia - 5cm, Width - 2.5cm)
+		o2 - (Dia - 5cm, WIdth - 1cm)
+	Hole for axile - 2cm
+
+Brake Disc : (Dia - 12.5cm, Width - 0.5cm)
+
+Net Hole : (Dia - 0.4cm)
