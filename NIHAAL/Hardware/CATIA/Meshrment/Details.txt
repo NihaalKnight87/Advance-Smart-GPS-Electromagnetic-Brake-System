@@ -7,3 +7,10 @@ Wheel : (Dia - 25cm, Width - 1cm) Wheel Attachment attatched to wheel (x1)
 Brake Disc : (Dia - 12.5cm, Width - 0.5cm)
 
 Net Hole : (Dia - 0.4cm)
+
+Gear - (Dia - 5cm , Width - 0.2cm) (TOP CLEARANCE - 0.1cm)
+
+Ball Baring - (Dia - 4.5cm, Width - 2cm)
+
+
+Free Space (btw Motor & wheel) - (length - 15cm)
