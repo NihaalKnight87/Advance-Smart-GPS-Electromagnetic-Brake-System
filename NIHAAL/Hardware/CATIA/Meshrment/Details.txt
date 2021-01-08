@@ -6,6 +6,8 @@ Wheel : (Dia - 25cm, Width - 1cm) Wheel Attachment attatched to wheel (x1)
 
 Brake Disc : (Dia - 12.5cm, Width - 0.5cm)
 
+Brake Calib : (Dia - 8.75cm, width - 6.5cm ) (Disc to Caliber clearance - 0.5cm)
+
 Net Hole : (Dia - 0.4cm)
 
 Gear - (Dia - 5cm , Width - 0.2cm) (TOP CLEARANCE - 0.1cm)
