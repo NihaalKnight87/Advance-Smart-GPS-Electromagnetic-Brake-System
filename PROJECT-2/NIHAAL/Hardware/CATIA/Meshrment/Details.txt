@@ -1,0 +1,18 @@
+Wheel : (Dia - 25cm, Width - 1cm) Wheel Attachment attatched to wheel (x1) 
+	x1 - Smaller for Grear (o1), longer for Magnetic Brakes (o2).
+		o1 - (Dia - 5cm, Width - 2.5cm)
+		o2 - (Dia - 5cm, WIdth - 1cm)
+	Hole for axile - 2cm
+
+Brake Disc : (Dia - 12.5cm, Width - 0.5cm)
+
+Brake Calib : (Dia - 8.75cm, width - 6.5cm ) (Disc to Caliber clearance - 0.5cm)
+
+Net Hole : (Dia - 0.4cm)
+
+Gear - (Dia - 5cm , Width - 0.2cm) (TOP CLEARANCE - 0.1cm)
+
+Ball Baring - (Dia - 4.5cm, Width - 2cm)
+
+
+Free Space (btw Motor & wheel) - (length - 15cm)
